@@ -17,3 +17,5 @@ params:
         url: 'https://medium.com/@marko.mekjavic'
       - name: goodreads
         url: 'https://www.goodreads.com/user/show/151341673-marko-mekjavi'
+      - name: goodreads
+        url: 'https://www.goodreads.com/user/show/151341673-marko-mekjavi'
