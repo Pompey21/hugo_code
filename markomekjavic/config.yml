@@ -17,3 +17,7 @@ params:
         url: 'https://medium.com/@marko.mekjavic'
       - name: goodreads
         url: 'https://www.goodreads.com/user/show/151341673-marko-mekjavi'
+      - name: devpost
+        url: 'https://www.ikea.com/ch/fr/p/slattum-cadre-de-lit-matelasse-knisa-gris-clair-30446373/'
+      - name: twitter
+        url: 'https://twitter.com/Marko86976381'
